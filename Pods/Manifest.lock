@@ -1,0 +1,31 @@
+PODS:
+  - AFPopupView (1.0)
+  - DNSSwipeableTableCell (0.0.1)
+  - JMOTableViewDescription (0.1)
+  - LPPopupListView (1.0.2)
+  - PopoverView (0.0.2)
+  - PZSideMenuViewController (1.1.0)
+  - UIView+draggable (0.2)
+  - WEPopover (1.0.0)
+
+DEPENDENCIES:
+  - AFPopupView (~> 1.0)
+  - DNSSwipeableTableCell (~> 0.0.1)
+  - JMOTableViewDescription (~> 0.1)
+  - LPPopupListView (~> 1.0.2)
+  - PopoverView (~> 0.0.1)
+  - PZSideMenuViewController (~> 1.1.0)
+  - UIView+draggable (~> 0.2)
+  - WEPopover (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  AFPopupView: a3e9e827ed9ce4c7087af259746353aaf7ab75a2
+  DNSSwipeableTableCell: 5fbd81b2af1542abfcc1e20dc2e011ed5cd597bb
+  JMOTableViewDescription: 47b29434503b85d5f828d03a903b3aa95e01ef32
+  LPPopupListView: 14bf5d4149a9f2f8aa5d65c678fed22e6094cc24
+  PopoverView: dc8ffff5ce3af6d38dd5a2656f94b84e8548ae0a
+  PZSideMenuViewController: 004c50ebc962e20ea82a04f9506318ac889e7019
+  UIView+draggable: fbcd3a4e6681915a7ee653b713a1341e4b2e2b91
+  WEPopover: 448ce0482739057ad7dfff2fe0438cc55ed38164
+
+COCOAPODS: 0.31.1
